@@ -1,0 +1,5 @@
+{
+  "name": "vibedb",
+  "description": "An interactive application to visualize, manage, and modify database schemas using a graph interface and an AI chat assistant. Import DDL, make changes with natural language, and export the updated schema.",
+  "requestFramePermissions": []
+}
